@@ -1,4 +1,4 @@
-# Analisis_Perfiles_de_Clientes
+ # Analisis_Perfiles_de_Clientes
 Contexto
 
 En el contexto de este proyecto se tomará a la empresa IFood como un supermercado de productos varios, mayormente alimenticios. La base de datos viene de una recolección de datos de los clientes al momento de lanzar 5 campañas de marketing. 
